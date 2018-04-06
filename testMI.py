@@ -1,6 +1,6 @@
 from pyMediaInfo import MediaInfo, Track
 #fix DLL path
-MediaInfo.PATH_TO_DLL = r"C:\Program Files\mediaInfo"
+MediaInfo.PATH_TO_DLL = r"C:\libs\mediaInfo"
 
         
 def report( data ):
